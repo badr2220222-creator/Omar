@@ -1,0 +1,136 @@
+{
+  "profile": {
+    "myaccount": "My Account",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "mode": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "hero": {
+    "number": "More than +200 consultations",
+    "title": "OMAR ELGENDY",
+    "description": "A financial consultant with over 14 years of experience in accounting, financial management, and strategic decision-making. Holds postgraduate degrees and a master's in Accounting and Decision Support, providing advisory services to a diverse range of holding companies and multi-activity business organizations.",
+    "experience": "He possesses deep practical experience in the markets of Saudi Arabia, the UAE, and Spain, which gives him a multi-dimensional international perspective to offer innovative financial solutions that align with the regulations and opportunities in each region. He is characterized by a precise analytical approach and a high capacity for designing customized financial strategies, with a focus on improving financial performance, managing risks, and enhancing data-driven decision-making."
+  },
+  "features": {
+    "scheduleFaster": "Schedule Your Consultation: Fast & Convenient Scheduling",
+    "scheduleMeetingsInMinutes": "Schedule Meetings in Minutes",
+    "withOmarelgendy": "With OMARELGENDY, you can book your consultation in minutes. We ensure a fast and easy scheduling experience, so you can access our advisory services with complete ease and convenience.",
+    "services": [
+      {
+        "name": "Corporate Financial Consulting",
+        "description": "Comprehensive financial analysis and design of growth and profitability strategies that enhance performance and mitigate financial risks."
+      },
+      {
+        "name": "Cash Flow Management and Financial Planning",
+        "description": "Professional planning to control liquidity and ensure short- and long-term financial stability."
+      },
+      {
+        "name": "Tax Compliance and International Consulting",
+        "description": "Structuring tax frameworks and handling tax compliance laws in Saudi Arabia, the UAE, and Spain."
+      },
+      {
+        "name": "Financial Statement Analysis and Decision-Making",
+        "description": "Preparing analytical reports to accurately understand the financial position and guide strategic decisions."
+      },
+      {
+        "name": "Real Estate Investment Consulting",
+        "description": "Providing balanced investment plans that ensure the achievement of passive income in local and international markets."
+      },
+      {
+        "name": "Consulting for Expats and International Professionals",
+        "description": "Financial and tax solutions for individuals who work or invest across borders."
+      },
+      {
+        "name": "Personal Financial Consulting",
+        "description": "Personal assistance in managing budgets, income, expenses, and savings to achieve future financial goals intelligently and realistically."
+      }
+    ],
+    "cta": {
+      "startScheduleNow": "Start Scheduling with OMARELGENDY Now!",
+      "schedulingBenefit": "OMARELGENDY makes it easy for your clients to schedule a meeting with you.",
+      "getStarted": "Book a Trusted Consultation"
+    }
+  },
+  "dashboardlinks": {
+    "eventtypes": "Event Types",
+    "meetings": "Meetings",
+    "availablity": "Availablity",
+    "settings": "Settings"
+  },
+  "eventtypes": {
+    "createnewevent": "Create New Event",
+    "minutesmeeting": "Minutes Meeting",
+    "event": "Event",
+    "preview": "Preview",
+    "copy": "Copy",
+    "edit": "Edit",
+    "delete": "Delete",
+    "createandmanage": "Create and manage your event types.",
+    "editevent": "Edit Event"
+  },
+  "neweventtypes": {
+    "addtitle": "Add new appointment type",
+    "addsubtitle": "Create a new appointment type that allows people to book times.",
+    "title": "Title",
+    "urlslug": "URL Slug",
+    "description": "Description",
+    "duration": "Duration",
+    "15mins": "15 Mins",
+    "30mins": "30 Min",
+    "45mins": "45 Mins",
+    "1hour": "1 Hour",
+    "selectduration": "Select the duration",
+    "videocallprovider": "Video Call Provider",
+    "zoom": "Zoom",
+    "googlemeet": "Google Meet",
+    "microsoftteams": "Microsoft Teams",
+    "cancel": "Cancel",
+    "createeventtype": "Create Event Type",
+    "editeeventtype": "Edit Event Type",
+    "deleteeventtype": "Delete Event Type",
+    "deleteconfirmation": "Are you sure you want to delete this event type?",
+    "delete": "Delete",
+     "noeventtypes": "You have no Event Types",
+  "noeventtypesdesc": "You can create your first event type by clicking the button below.",
+  "addeventtype": "Add Event Type"
+  },
+  "availabilities": {
+    "availability": "Availability",
+    "description": "In this section you can manage your availability.",
+    "days": {
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday"
+    },
+    "savechanges": "Save Changes"
+  },
+  "meetings": {
+    "nomeetings": "No meetings found",
+    "nomeetingsyet": "You don't have any meetings yet.",
+    "createevent": "Create a new event type",
+      "title": "Bookings",
+  "description": "See upcoming and past events booked through your event type links.",
+  "joinmeeting": "Join Meeting",
+  "youand": "You and"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account settings.",
+    "fullname": "Full Name",
+    "email": "Email",
+    "profileimage": "Profile Image",
+    "savechanges": "Save Changes"
+  },
+  "userform": {
+  "yourname": "Your Name",
+  "youremail": "Your Email"
+}
+}

@@ -1,0 +1,136 @@
+{
+    "profile": {
+        "myaccount": "Mi cuenta",
+        "settings": "Ajustes",
+        "logout": "Cerrar sesión"
+    },
+    "mode": {
+        "light": "Claro",
+        "dark": "Oscuro",
+        "system": "Sistema"
+    },
+    "hero": {
+        "number": "Más de +200 consultas",
+        "title": "OMAR Elgendy",
+        "description": "Consultor financiero con más de 14 años de experiencia en contabilidad, gestión financiera y toma de decisiones estratégicas. Posee títulos de posgrado y una maestría en Contabilidad y Apoyo a la Toma de Decisiones, ofreciendo sus servicios de consultoría a una amplia gama de empresas holding y organizaciones empresariales con múltiples actividades.",
+        "experience": "Posee una profunda experiencia práctica en los mercados de Arabia Saudita, los Emiratos Árabes Unidos y España, lo que le confiere una perspectiva internacional multidimensional para ofrecer soluciones financieras innovadoras que se alinean con las regulaciones y oportunidades de cada región. Se caracteriza por un enfoque analítico preciso y una gran capacidad para diseñar estrategias financieras personalizadas, con un enfoque en la mejora del rendimiento financiero, la gestión de riesgos y la toma de decisiones basada en datos."
+    },
+    "features": {
+        "scheduleFaster": "Reserve su Cita: Programación Rápida y Conveniente",
+        "scheduleMeetingsInMinutes": "Programe Reuniones en Minutos",
+        "withOmarelgendy": "Con OMARELGENDY, puede reservar su consulta en minutos. Le garantizamos una experiencia de programación rápida y sencilla, para que pueda acceder a nuestros servicios de asesoría con total facilidad y comodidad.",
+        "services": [
+            {
+                "name": "Consultoría Financiera Corporativa",
+                "description": "Análisis financiero integral y diseño de estrategias de crecimiento y rentabilidad que mejoran el rendimiento y reducen los riesgos financieros."
+            },
+            {
+                "name": "Gestión de Flujo de Efectivo y Planificación Financiera",
+                "description": "Planificación profesional para controlar la liquidez y garantizar la estabilidad financiera a corto y largo plazo."
+            },
+            {
+                "name": "Cumplimiento Fiscal y Consultoría Internacional",
+                "description": "Estructuración de marcos fiscales y gestión de leyes de cumplimiento tributario en Arabia Saudita, los Emiratos Árabes Unidos y España."
+            },
+            {
+                "name": "Análisis de Estados Financieros y Toma de Decisiones",
+                "description": "Elaboración de informes analíticos para comprender con precisión la situación financiera y orientar las decisiones estratégicas."
+            },
+            {
+                "name": "Consultoría de Inversión Inmobiliaria",
+                "description": "Proporcionar planes de inversión equilibrados que garanticen la obtención de ingresos pasivos en mercados locales e internacionales."
+            },
+            {
+                "name": "Consultoría para Expatriados y Profesionales Internacionales",
+                "description": "Soluciones financieras y fiscales para personas que trabajan o invierten a través de fronteras."
+            },
+            {
+                "name": "Consultoría Financiera Personal",
+                "description": "Asistencia personal en la gestión de presupuestos, ingresos, gastos y ahorros para lograr objetivos financieros futuros de manera inteligente y realista."
+            }
+        ]
+    },
+    "cta": {
+        "startScheduleNow": "¡Empiece a Programar con OMARELGENDY Ahora!",
+        "schedulingBenefit": "OMARELGENDY facilita a sus clientes la programación de una reunión con usted.",
+        "getStarted": "Reserva una Consulta Confiable"
+    },
+    "dashboardlinks": {
+        "eventtypes": "Tipos de eventos",
+        "meetings": "Reuniones",
+        "availablity": "Disponibilidad",
+        "settings": "Configuración"
+    },
+    "eventtypes": {
+        "createnewevent": "Crear nuevo evento",
+        "minutesmeeting": "Reunión en minutos",
+        "event": "Evento",
+        "preview": "Vista previa",
+        "copy": "Copiar",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "createandmanage": "Crea y gestiona tus tipos de eventos.",
+        "editevent": "Editar evento"
+    },
+    "neweventtypes": {
+        "addtitle": "Agregar nuevo tipo de cita",
+        "addsubtitle": "Crea un nuevo tipo de cita que permita a las personas reservar horarios.",
+        "title": "Título",
+        "urlslug": "URL Slug",
+        "description": "Descripción",
+        "duration": "Duración",
+        "15mins": "15 Minutos",
+        "30mins": "30 Minutos",
+        "45mins": "45 Minutos",
+        "1hour": "1 Hora",
+        "selectduration": "Selecciona la duración",
+        "videocallprovider": "Proveedor de videollamadas",
+        "zoom": "Zoom",
+        "googlemeet": "Google Meet",
+        "microsoftteams": "Microsoft Teams",
+        "cancel": "Cancelar",
+        "createeventtype": "Crear tipo de evento",
+        "editeeventtype": "Editar tipo de evento",
+        "deleteeventtype": "Eliminar tipo de evento",
+        "deleteconfirmation": "¿Estás seguro de que deseas eliminar este tipo de evento?",
+        "delete": "Eliminar",
+        "noeventtypes": "No tienes tipos de eventos",
+        "noeventtypesdesc": "Puedes crear tu primer tipo de evento haciendo clic en el botón de abajo.",
+        "addeventtype": "Agregar tipo de evento"
+    },
+    "availabilities": {
+        "availability": "Disponibilidad",
+        "description": "En esta sección puedes gestionar tu disponibilidad.",
+        "days": {
+            "friday": "Viernes",
+            "saturday": "Sábado",
+            "sunday": "Domingo",
+            "monday": "Lunes",
+            "tuesday": "Martes",
+            "wednesday": "Miércoles",
+            "thursday": "Jueves"
+        },
+        "savechanges": "Guardar cambios"
+    },
+    "meetings": {
+        "nomeetings": "No se encontraron reuniones",
+        "nomeetingsyet": "Aún no tienes ninguna reunión.",
+        "createevent": "Crear un nuevo tipo de evento",
+          "title": "Reservas",
+  "description": "Consulta los eventos futuros y pasados reservados a través de tus enlaces de tipos de eventos.",
+  "join_meeting": "Unirse a la reunión",
+  "you_and": "Tú y"
+    },
+    "settings": {
+        "title": "Configuración",
+        "subtitle": "Administra la configuración de tu cuenta.",
+        "fullname": "Nombre completo",
+        "email": "Correo electrónico",
+        "profileimage": "Imagen de perfil",
+        "savechanges": "Guardar cambios"
+    },
+    "userform": {
+  "yourname": "Tu nombre",
+  "youremail": "Tu correo electrónico"
+}
+}
