@@ -13,10 +13,10 @@ export function OldHomePage() {
             OMAR<span className="text-primary">ELGENDY</span>
           </h1>
         </Link>
-
+{/* 
         <Button asChild>
-          <Link >Get Started Today</Link>
-        </Button>
+          <Link href="/api/auth">Get Started Today</Link>
+        </Button> */}
       </nav>
 
       {/* Grid */}
