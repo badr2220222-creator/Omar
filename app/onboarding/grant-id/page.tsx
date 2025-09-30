@@ -29,7 +29,7 @@ const GrantIdRoute = () => {
         </CardHeader>
         <CardContent>
           <Button asChild className="w-full">
-            <Link href="/api/auth">
+            <Link >
               <CalendarCheck2 className="size-4 mr-2" />
               Connect Calender to Account
             </Link>

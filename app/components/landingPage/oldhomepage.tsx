@@ -15,7 +15,7 @@ export function OldHomePage() {
         </Link>
 
         <Button asChild>
-          <Link href="/api/auth">Get Started Today</Link>
+          <Link >Get Started Today</Link>
         </Button>
       </nav>
 
