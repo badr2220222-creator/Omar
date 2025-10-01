@@ -10,7 +10,7 @@ export const nylasConfig = {
 
 // const AuthConfig = {
 //   clientId: process.env.NYLAS_CLIENT_ID as string,
-//   redirectUri: "http://localhost:3000/oauth/exchange",
+//   redirectUri: "https://omarelgendy.com/oauth/exchange",
 // };
 
 export const nylas = new Nylas({

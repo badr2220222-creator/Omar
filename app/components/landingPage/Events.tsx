@@ -25,7 +25,7 @@ async function getData() {
 }
 
 export async function Events() {
-  const baseUrl = "http://localhost:3000";
+  const baseUrl = "https://omarelgendy.com";
   const data = await getData();
 
   return (

@@ -21,7 +21,7 @@
 // }
 
 // export async function Events() {
-//   const [baseUrl, setBaseUrl] = useState("http://localhost:3000");
+//   const [baseUrl, setBaseUrl] = useState("https://omarelgendy.com");
 //   const data = await getData('896e7e5f-9b2c-4525-a2c3-93f7454abf39');
 
 //   return (
